@@ -1,3 +1,4 @@
+# Collect the text files acquired via web scraping into a single dataframe.
 import pandas as pd
 import numpy as np
 import nltk

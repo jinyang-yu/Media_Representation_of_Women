@@ -1,3 +1,7 @@
+# Following the grouping of articles based on their publication years (in decade intervals) using the dataframe, 
+# proceed to save them as text files and organize them into distinct folders corresponding to different decades.
+# Upon reviewing this, I realized that the process is redundant. The grouping process can be 
+# accomplished within the dataframe, eliminating the need to output them as text files again.
 import glob, os
 import numpy as np
 import pandas as pd
